@@ -27,44 +27,28 @@ nav ul li a:hover {
 }
 .background-section {
     background-image: url("https://images.unsplash.com/photo-1554244933-d876deb6b2ff?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-    background-position: center;
+    background-position: fixed;
+    height: 739px;
+    width: 100%;
     background-size: cover;
-    height: 639px;
-    object-fit: cover;
     background-attachment: fixed;
 }
 
 .content {
     padding: 20px;
-    color: white;
+    color: #191970;
     font-family: "Avenir LT Std", "Helvetica Nueue", Helvetica, Arial, sans-serif;
     font-style: normal;
+    margin-left: 50px;
 }
 
 .heading1 {
     font-size: 3.7rem;
-    margin-top: 180px;
+    margin-top: 230px;
 }
 
 .sheading1 {
+    margin-left: 70px;
     font-size: 1.4rem;
 }
 
-.blink {
-    font-size: 1.2rem;
-    margin-top: 30px;
-}
-.book {
-    padding: 11px;
-    text-decoration: none;
-    color: white;
-    border: 3px solid white;
-}
-
-.member {
-    margin-left: 30px;
-    text-decoration: none;
-    color: white;
-    border: 3px solid green;
-    padding: 10px;
-}
